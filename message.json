@@ -11,7 +11,7 @@
       "bottomMessage": {
           "message": "Message:<a target='blank' href='https://trafikant.pro'>link</a> - test edit at github",
           "expiredAt": "2025-01-30",
-          "color": "green"
+          "color": "red"
       }
    }
 }
